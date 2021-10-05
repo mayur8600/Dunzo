@@ -76,7 +76,7 @@
 ### Rupendra Singh
 - *Github* : https://github.com/Mrrupendra/ 
 - *Email* : mr.rupendra11@gmail.com
-- *Linkedin* : https://www.linkedin.com/in/rupendra-singh-6430ab16a/
+- *Linkedin* : www.linkedin.com/in/rupendra-singh11/
 
 ### Abhishek Soni
 - *Github* : https://github.com/abhi270794/
